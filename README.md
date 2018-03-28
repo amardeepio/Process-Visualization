@@ -12,7 +12,7 @@ What things you need to install the software and how to install them
 ```
 Python 2.7 or 3.5 
 pip for installing modules
-first clone the repository and run the following command
+first clone the repository and run the following command in the terminal
 
 git clone https://github.com/amardeep-programmer/Process-Visualization.git
 pip install -r requirements.txt
