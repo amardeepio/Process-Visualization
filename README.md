@@ -16,7 +16,8 @@ first clone the repository and run the following command in the terminal
 
 git clone https://github.com/amardeep-programmer/Process-Visualization.git
 pip install -r requirements.txt
-apt-get install python-tk 
+apt-get install python-tk (for python 2.7)
+apt-get install python3-tk (for python 3.5)
 
 
 
